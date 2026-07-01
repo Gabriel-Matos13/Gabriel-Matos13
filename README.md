@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm a data professional combining business acumen with statistical modeling and NLP. Currently working as a Reporting & Analytics Partner at **Thryv** & Data Science at **ITLA**.
+I'm a data professional combining business acumen with statistical modeling and NLP. Currently working as a Reporting & Analytics Partner at **Thryv** while studying Data Science at **ITLA**.
 
 My work lives at the intersection of real-world problems and data — from scraping public sentiment on Dominican utility services to geospatial B2B market analysis in Boca Chica. I build end-to-end pipelines: ingestion, analysis, and publicly hosted dashboards.
 
@@ -62,11 +62,12 @@ Regression analysis on synthetic sales transaction data across products, regions
 | Category | Tools |
 |---|---|
 | **Languages** | Python · R · SQL · HTML |
-| **Data & Analysis** | pandas · NumPy · scikit-learn · ggplot2 · Excel |
+| **Data & Analysis** | pandas · NumPy · ggplot2 · Excel |
+| **Machine Learning** | scikit-learn · regression · classification · NLP · predictive modeling · feature engineering |
 | **NLP** | pysentimiento · langdetect · regex · custom lexicons |
-| **Databases** | PostgreSQL |
-| **Visualization** | Chart.js · Plotly · Power BI |
-| **Infrastructure** | GitHub Pages · Apify · Jupyter |
+| **Databases** | PostgreSQL · MySQL · Microsoft SQL Server · Oracle · IBM Db2 · NoSQL |
+| **Visualization** | Chart.js · Plotly · Power BI · Tableau · Seaborn · Matplotlib |
+| **Infrastructure** | GitHub Pages · Apify · Jupyter · Google Colab |
 
 ---
 
